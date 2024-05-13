@@ -40,6 +40,7 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/junit/junit-original.svg" alt="JUnit" width="65">
         <img src="https://user-images.githubusercontent.com/25181517/192106593-610ee31c-995e-4f24-b8e1-0f18eead6fae.png" alt="MatLab" width="65"> 
         <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML" width="65">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/maven/maven-original.svg" alt="Maven" width="65">     
     </div>
     <h2 align="center">Used IDE's</h2>
     <div align="center">
