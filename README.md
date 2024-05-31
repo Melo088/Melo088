@@ -4,7 +4,7 @@
 
 <h3 align="center" style="font-size: 12px;">
   <i>Student of Telematics Engineering at 
-    <a href="https://www.icesi.edu.co/">ICESI University</a>
+    <a href="https://www.icesi.edu.co/">ICESI University</a> 🦾
   </i>
 </h3>
 
