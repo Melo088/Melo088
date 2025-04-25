@@ -8,18 +8,11 @@
   </i>
 </h3>
 
- <img align="right" width="27%" src="https://media.giphy.com/media/CrFLL3CnRpw5ddlBMm/giphy.gif">
 
 
 <!--Start Intro-->
 
-- ✨ Lifelong learner :)
-- 💡Problem-solver mindset.
-- 🌱 Engineering student with a keen interest in technology, telecommunications and networks.
-- 🔭 I aspire to apply telematics and systems principles to solve problems in physics through technological solutions.
-- ❤ Contributing to Open Source.
-
-- 📚 Passionate reader, always in search of new knowledge and perspectives.
+<p align = "center">Engineering student with a keen interest in technology, telecommunications and networks.</p>
 
 
 <!--End Intro-->
