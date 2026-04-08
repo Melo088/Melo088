@@ -89,12 +89,12 @@ My work sits at the intersection of **networking, systems engineering, and softw
   <tr>
     <td width="50%">
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Melo088&count_private=true&show_icons=true&theme=nightowl&hide_border=true" alt="GitHub Stats"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Melo088&show_icons=true&theme=nightowl&hide_border=true&count_private=true" alt="GitHub Stats"/>
       </p>
     </td>
     <td width="50%">
       <p align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Melo088&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Melo088&layout=compact&theme=nightowl&hide_border=true" alt="Top Languages"/>
       </p>
     </td>
   </tr>
